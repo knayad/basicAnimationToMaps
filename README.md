@@ -4,6 +4,9 @@ MBTA bus data: stops between Harvard and MIT with an animated marker on the map 
 # Description
 Utilizes the Mapbox library and API, JavaScript, CSS, and HTML to render a map on a web page to show real-time data. This project is, as such, an animation.
 
+![MIT-bus-stops-giphy](https://github.com/knayad/basicAnimationToMaps/assets/68199213/cb3daf34-a41e-4431-881c-7c6e55cce163)
+
+
 # How to Run
 Run it locally in your browser from the index.html file. Ensure all relavant files are downloaded in the same directory and have the appropriate file structure.
 
